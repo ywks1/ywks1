@@ -4,11 +4,11 @@
 
 ### 可以将jar包与txt文件放在一起
 
-![image-20250911224840324](C:\Users\zengxiangen\AppData\Roaming\Typora\typora-user-images\image-20250911224840324.png)
+![image-20250911224840324](images\image-20250911224840324.png)
 
 ### 用WIN+R输入cmd打开命令行
 
-![image-20250911224935390](C:\Users\zengxiangen\AppData\Roaming\Typora\typora-user-images\image-20250911224935390.png)
+![image-20250911224935390](images\image-20250911224935390.png)
 
 ### 在命令行输入
 
@@ -17,10 +17,13 @@
 java -jar PaperChecker.jar {原文章地址} {抄袭文章地址} {结果输出地址}
 ```
 
-![image-20250911225451854](C:\Users\zengxiangen\AppData\Roaming\Typora\typora-user-images\image-20250911225451854.png)
+![image-20250911225451854](images\image-20250911225451854.png)
 
-![image-20250911225510581](C:\Users\zengxiangen\AppData\Roaming\Typora\typora-user-images\image-20250911225510581.png)
+![image-20250911225510581](images\image-20250911225510581.png)
+
+
 
 两段话如图输出结果如下
 
-![image-20250911225545387](C:\Users\zengxiangen\AppData\Roaming\Typora\typora-user-images\image-20250911225545387.png)
+![image-20250911225545387](images\image-20250911225545387.png)
+
