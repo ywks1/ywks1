@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db3b7ca-9fec-4e78-9cae-6bc43866dffe" name="Changes" comment="第三次作业项目结对" />
+    <list default="true" id="236ba94e-5aad-4344-af2f-5980a0a628fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ywks1&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:ywks1/ywks1.git&quot;,
-    &quot;accountId&quot;: &quot;21daba7f-b339-47ef-adf3-c996413cedfa&quot;
-  }
-}</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -32,89 +21,54 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="34HicDTJXkp0j6DYa8XDhii5qqj" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="34HCgrFx2BTnNNGJ4wTddG3CvuZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.FractionTest.testAdd.executor": "Run",
-    "JUnit.FractionTest.testConstructor.executor": "Run",
-    "JUnit.FractionTest.testSubtract.executor": "Run",
+    "Application.Main.executor": "Run",
     "Maven.arithmetic-generator [clean].executor": "Run",
     "Maven.arithmetic-generator [package].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/zengxiangen/Desktop/ruangonghomework/ywks1/3123004677/Calculate",
+    "last_opened_file_path": "C:/Users/zengxiangen/Desktop/结对项目",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.FractionTest.testConstructor">
-    <configuration name="FractionTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="arithmetic-generator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arithmetic.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arithmetic" />
-      <option name="MAIN_CLASS_NAME" value="com.arithmetic.FractionTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FractionTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arithmetic-generator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arithmetic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arithmetic" />
-      <option name="MAIN_CLASS_NAME" value="com.arithmetic.FractionTest" />
-      <option name="METHOD_NAME" value="testConstructor" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FractionTest.testSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arithmetic-generator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arithmetic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arithmetic" />
-      <option name="MAIN_CLASS_NAME" value="com.arithmetic.FractionTest" />
-      <option name="METHOD_NAME" value="testSubtract" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FractionTest.testConstructor" />
-        <item itemvalue="JUnit.FractionTest.testSubtract" />
-        <item itemvalue="JUnit.FractionTest.testAdd" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,14 +82,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2db3b7ca-9fec-4e78-9cae-6bc43866dffe" name="Changes" comment="" />
-      <created>1760876975360</created>
+      <changelist id="236ba94e-5aad-4344-af2f-5980a0a628fc" name="Changes" comment="" />
+      <created>1760861224529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760876975360</updated>
-      <workItem from="1760876976974" duration="2307000" />
-      <workItem from="1761036670278" duration="320000" />
-      <workItem from="1761037002570" duration="14000" />
+      <updated>1760861224529</updated>
+      <workItem from="1760861225864" duration="886000" />
     </task>
     <servers />
   </component>

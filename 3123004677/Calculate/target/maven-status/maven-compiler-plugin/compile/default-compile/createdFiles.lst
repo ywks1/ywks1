@@ -1,0 +1,14 @@
+org\example\Fraction.class
+org\example\CommandLineParser.class
+org\example\Expression$OperatorType.class
+org\example\Expression$ExpressionNode.class
+org\example\ExpressionGenerator.class
+org\example\FileHandler.class
+org\example\Expression$1.class
+org\example\Expression.class
+org\example\Main.class
+org\example\PerformanceOptimizer.class
+org\example\ExpressionParser.class
+org\example\Expression$NumberNode.class
+org\example\Expression$OperatorNode.class
+org\example\GradeChecker.class

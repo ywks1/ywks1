@@ -1,0 +1,6 @@
+org\example\ExpressionTest.class
+org\example\FractionTest.class
+org\example\PerformanceTest.class
+org\example\CommandLineParserTest.class
+org\example\FileHandlerTest.class
+org\example\GradeCheckerTest.class

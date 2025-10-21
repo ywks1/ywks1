@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.ExpressionTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in org.example.ExpressionTest
+testExpressionParser  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: È±ÉÙ·ÖÊý·ûºÅ
+	at org.example.ExpressionTest.testExpressionParser(ExpressionTest.java:118)
+
